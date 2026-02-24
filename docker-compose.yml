@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  home-portal:
+    build: .
+    image: home-portal:latest
+    container_name: home-portal
+    restart: always
+    ports:
+      - "80:80"
+    environment:
+      - NODE_ENV=production
