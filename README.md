@@ -1,6 +1,8 @@
 # Home Portal 🏠
 
 A modern, card-based home dashboard to centralize your smart home services, calendar, and weather. Built with React, Vite, and Tailwind CSS.
+<img width="1739" height="1001" alt="image" src="https://github.com/user-attachments/assets/9a772580-1c37-4542-9ecb-0b7ebde324ac" />
+
 
 ## Features ✨
 
